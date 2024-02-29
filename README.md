@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucid _</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://t.me/lucid_builds" target="blank"><img align="center" src="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)" alt="https://t.me/lucid_builds" height="30" width="40" /></a>
+<a href="/https://t.me/lucid_builds" target="blank"><img align="center" src="https://icons8.com/icon/MIMjVKoXINIT/telegram-app" alt="https://t.me/lucid_builds" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
